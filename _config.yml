@@ -28,7 +28,7 @@ twitter_username: dumbjohnoliver
 github_username:  tylermanderson
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
